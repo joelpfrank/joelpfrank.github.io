@@ -1,0 +1,11 @@
+body {
+ margin: 0;
+ background-image: url(col.jpg);
+ background-size: 1400px 800px;
+ background-repeat:no-repeat;
+ display: compact;
+}
+.jumbotron {
+	background-color: transparent;
+	text-align: center;
+}
